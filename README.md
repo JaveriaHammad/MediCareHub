@@ -35,6 +35,35 @@ The application uses file handling to store and retrieve patient, doctor, appoin
 - Implement file handling for persistent data storage.
 - Improve the organization and accessibility of hospital information.
 
+  ## Project Files and Application Access
+
+This repository contains the source code of MediCare Hub, while the executable application is provided separately through Google Drive.
+
+### 1. Source Code
+
+The Java source code files are available in this GitHub repository. They include the implementation of the application's main modules, graphical user interface, data handling, models, services, and exception handling.
+
+These files can be accessed and reviewed directly through the repository.
+
+### 2. Executable Application (EXE)
+
+The ready-to-run executable version of MediCare Hub is provided separately through Google Drive.
+
+To access and run the application:
+
+1. Open the `MediCareHub.txt` file available in this repository.
+2. Open the Google Drive link provided inside the file.
+3. Download the MediCare Hub ZIP package.
+4. Extract the downloaded ZIP file on your computer.
+5. Open the extracted `MediCareHub` folder.
+6. Locate and double-click `MediCareHub.exe` to launch the application.
+
+**Important:** The EXE is provided inside the ZIP package along with its required runtime and supporting files. Keep the extracted folder and its contents together while running the application.
+
+### 3. Download Link
+
+The Google Drive download link for the executable application is provided in the file named **`MediCareHub.txt`** in this repository.
+
 ### Technologies and Tools
 
 - **Java:** Main programming language.
