@@ -1,6 +1,10 @@
+# MediCare Hub — Hospital Management System
+
+**A Java-Based Hospital Management System**
+
 ## About the Project
 
-**MediCare Hub** is a desktop-based Hospital Management System developed using Java and Java Swing. The main purpose of this project is to computerize and simplify essential hospital management activities through an organized and user-friendly graphical interface.
+MediCare Hub is a desktop-based Hospital Management System developed using Java and Java Swing. The main purpose of this project is to computerize and simplify essential hospital management activities through an organized and user-friendly graphical interface.
 
 The application provides a centralized platform for managing patients, doctors, appointments, and billing records. It helps organize hospital information, reduce manual record-keeping, and make daily administrative tasks easier and more efficient.
 
@@ -26,7 +30,7 @@ This module handles patient billing records and helps users manage and review bi
 
 The application uses file handling to store and retrieve patient, doctor, appointment, and billing records. This allows saved information to remain available when the application is closed and reopened.
 
-### Project Goals
+## Project Goals
 
 - Develop a practical Hospital Management System using Java.
 - Implement Object-Oriented Programming concepts.
@@ -35,13 +39,21 @@ The application uses file handling to store and retrieve patient, doctor, appoin
 - Implement file handling for persistent data storage.
 - Improve the organization and accessibility of hospital information.
 
-  ## Project Files and Application Access
+## Technologies and Tools
 
-This repository contains the source code of MediCare Hub, while the executable application is provided separately through Google Drive.
+- **Java:** Main programming language.
+- **Java Swing:** Used to develop the graphical user interface.
+- **File Handling:** Used for storing and retrieving application records.
+- **IntelliJ IDEA:** Used as the development environment.
+- **OpenJDK:** Used for Java development and application execution.
+
+## Project Files and Application Access
+
+This project provides two separate components: the Java source code for reviewing the implementation and the executable application for running MediCare Hub.
 
 ### 1. Source Code
 
-The Java source code files are available in this GitHub repository. They include the implementation of the application's main modules, graphical user interface, data handling, models, services, and exception handling.
+The Java source code files are available directly in this GitHub repository. They contain the implementation of the application's main modules, graphical user interface, data handling, models, services, and exception handling.
 
 These files can be accessed and reviewed directly through the repository.
 
@@ -49,7 +61,7 @@ These files can be accessed and reviewed directly through the repository.
 
 The ready-to-run executable version of MediCare Hub is provided separately through Google Drive.
 
-To access and run the application:
+To download and run the application:
 
 1. Open the `MediCareHub.txt` file available in this repository.
 2. Open the Google Drive link provided inside the file.
@@ -64,10 +76,3 @@ To access and run the application:
 
 The Google Drive download link for the executable application is provided in the file named **`MediCareHub.txt`** in this repository.
 
-### Technologies and Tools
-
-- **Java:** Main programming language.
-- **Java Swing:** Used to develop the graphical user interface.
-- **File Handling:** Used for storing and retrieving application records.
-- **IntelliJ IDEA:** Used as the development environment.
-- **OpenJDK:** Used for Java development and application execution.
